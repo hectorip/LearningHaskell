@@ -1,0 +1,2 @@
+# LearningHaskell
+Ejericios de Haskell
