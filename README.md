@@ -8,6 +8,11 @@ Aprendiendo Haskell para dominar mejor la **programación funcional**.
 
 ## Fuentes
 
+Algunos recursos para aprender Haskell
+
+## Artículos
+
+
 
 ### Libros
 
