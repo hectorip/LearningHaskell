@@ -12,7 +12,11 @@ Algunos recursos para aprender Haskell
 
 ## Artículos
 
+  - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
 
+## Cursos
+
+ - [Haskell en Español](https://www.rayskell.com/curso-haskell)
 
 ### Libros
 
