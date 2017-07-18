@@ -9,7 +9,10 @@ Aprendiendo Haskell para dominar mejor la **programación funcional**.
 ## Fuentes
 
 Algunos recursos para aprender Haskell
+## Instalación
 
+  - [Mac](https://www.haskell.org/platform/mac.html)
+  
 ## Artículos
 
   - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
