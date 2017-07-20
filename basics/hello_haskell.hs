@@ -1,3 +1,3 @@
+-- Esto es un comentario
 main = putStrLn "Hello Haskell"
-
--- Is this a comment?
+main2 = putStrLn "Hello Main 2"
